@@ -2,7 +2,7 @@ Matomo Extension for Yii 2
 ==========================
 
 This extension provides integration of [Matomo Analytics](https://matomo.org/)
-for the [Yii framework 2.0](http://www.yiiframework.com).
+for the [Yii 2.0 framework](http://www.yiiframework.com).
 
 It provides simple integration of the [JavaScript tracking client](https://developer.matomo.org/guides/tracking-javascript-guide) into web pages, access to the [reporting API](https://developer.piwik.org/guides/querying-the-reporting-api) for Piwik hosted on both local and remote servers, and integration of [Piwik reporting widgets](https://developer.piwik.org/guides/widgets). 
 
