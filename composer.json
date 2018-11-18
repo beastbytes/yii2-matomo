@@ -3,10 +3,10 @@
     "description": "Matomo Analytics integration for Yii2",
     "type": "yii2-extension",
     "keywords": ["Analytics", "Matomo", "yii2"],
-    "license": "BSD 3-Clause",
+    "license": "BSD-3-Clause",
     "authors": [{
         "name": "Chris Yates",
-        "email": "clyates@gmail.com"
+        "email": "chris.l.yates@gmail.com"
     }],
     "require": {
         "yiisoft/yii2-httpclient": "~2.0.3"
